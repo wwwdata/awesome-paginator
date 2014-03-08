@@ -7,7 +7,7 @@ because it is the way I want a paginator to be. Just pagination without
 template rendering or other stuff. Because it is better you
 do that with your templating engine, this makes this module more reusable.
 
-[![build status](https://secure.travis-ci.org/wwwdata/awesome-pager.png)](http://travis-ci.org/wwwdata/awesome-pager)
+[![build status](https://secure.travis-ci.org/wwwdata/awesome-paginator.png)](http://travis-ci.org/wwwdata/awesome-paginator)
 
 ## Installation
 
